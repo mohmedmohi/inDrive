@@ -1,46 +1,16 @@
 {
-  "sara": {
-    "password": "2010",
-    "expiry": "2026-09-15 23:59:59"
-  },
-  "shimaa": {
-    "password": "1200",
-    "expiry": "2025-08-18 23:59:59"
-  },
-  "mostafas": {
-    "password": "1200",
-    "expiry": "2026-09-27 23:59:59"
-  },
-  "azza": {
-    "password": "1400",
-    "expiry": "2025-08-18 23:59:59"
-  },
-  "Rokaaa": {
-    "password": "1400",
-    "expiry": "2025-10-16 18:00:00"
-  },
-  "mazen": {
-    "password": "1600",
-    "expiry": "2025-10-18 18:00:00"
-  },
-  "Yasin": {
-    "password": "1350",
-    "expiry": "2026-11-01 12:00:00"
-  },
-  "khulud": {
-    "password": "2030",
-    "expiry": "2025-11-01 12:00:00"
-  },
-  "user08": {
-    "password": "AppPass#9108",
-    "expiry": "2025-12-31 23:59:59"
-  },
-  "user09": {
-    "password": "AppPass#9109",
-    "expiry": "2025-12-31 23:59:59"
-  },
-  "user10": {
-    "password": "AppPass#9110",
-    "expiry": "2025-12-31 23:59:59"
-  }
+  "status": "active",
+  "expiry_date": "2027-01-01",
+  "valid_keys": [
+    "1309",
+    "MOHI-INDRV-4412-PLM9",
+    "MOHI-INDRV-7730-ZVBT",
+    "MOHI-INDRV-1598-RFGC",
+    "MOHI-INDRV-6304-YUNW",
+    "MOHI-INDRV-8829-KDSA",
+    "MOHI-INDRV-3105-TXER",
+    "MOHI-INDRV-5941-OQLM",
+    "MOHI-INDRV-2073-BHVP",
+    "MOHI-INDRV-9164-WJZE"
+  ]
 }
