@@ -1,6 +1,6 @@
 {
-  "amr_user": {
-    "password": "Password123@",
+  "amr": {
+    "password": "12",
     "expiry": "2026-12-31 23:59:59"
   },
   "client_02": {
